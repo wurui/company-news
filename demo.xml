@@ -14,19 +14,37 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <article-news>
-        <title>
-            camera
-        </title>
-        <tag>
-            screen
-        </tag>
-        <time>
-            strong car
-        </time>
-        <content>
-            car
-        </content>
-    </article-news>
+        <article-news>
+            <i>
+                <title>北京联通携手华为成功部署基于TSDN政企专线</title>
+                <type>新闻</type>
+                <time>
+                    <y>2018</y>
+                    <M>3</M>
+                    <d>12</d>
+                </time>
+                <content></content>
+            </i>
+            <i>
+                <title>华为发布LTE 4T6S解决方案　助力网络容量倍增</title>
+                <type>新闻</type>
+                <time>
+                    <y>2018</y>
+                    <M>3</M>
+                    <d>9</d>
+                </time>
+                <content></content>
+            </i>
+            <i>
+                <title>沃达丰与华为成功完成基于原生云的敏捷灰度升级方案演示</title>
+                <type>新闻</type>
+                <time>
+                    <y>2018</y>
+                    <M>3</M>
+                    <d>7</d>
+                </time>
+                <content></content>
+            </i>
+        </article-news>
     </data>
 </root>
