@@ -1,0 +1,6 @@
+{
+  "name": "company-news",
+  "version": "0.0.1",
+  "apiDependencies": ["article-news"]
+}
+
