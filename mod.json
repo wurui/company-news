@@ -1,6 +1,12 @@
 {
   "name": "company-news",
-  "version": "0.0.1",
-  "apiDependencies": ["article-news"]
+  "apiDependencies": [
+  	{
+  		"name":"article-news",
+  		"LINK":[
+  			{"name":"detail","title":"查看详情"}
+  		]
+  	}
+  ]
 }
 

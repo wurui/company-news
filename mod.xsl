@@ -9,7 +9,7 @@
 	            			<xsl:value-of select="type"/>&#160;|&#160;<xsl:value-of select="time/y"/>-<xsl:value-of select="time/M"/>-<xsl:value-of select="time/d"/>
 	            		</p>
 	            		<h3 class="title">
-	            			<xsl:value-of select="title"/>
+	            			<a href="{LINK/detail}"><xsl:value-of select="title"/></a>
 	            		</h3>
 	            	</li>
 	            </xsl:for-each>
