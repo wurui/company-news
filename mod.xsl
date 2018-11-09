@@ -3,10 +3,10 @@
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-company-news" ox-mod="company-news">
             <ul>
-            	<xsl:for-each select="data/article-news/i">
+            	<xsl:for-each select="data/info-news/i">
 	            	<li>
 	            		<p class="time">
-	            			<xsl:value-of select="type"/>&#160;|&#160;<xsl:value-of select="time/y"/>-<xsl:value-of select="time/M"/>-<xsl:value-of select="time/d"/>
+	            			<xsl:value-of select="sort"/>&#160;|&#160;<xsl:value-of select="time/y"/>-<xsl:value-of select="time/M"/>-<xsl:value-of select="time/d"/>
 	            		</p>
 	            		<h3 class="title">
 	            			<a href="{LINK/detail}"><xsl:value-of select="title"/></a>

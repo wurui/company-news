@@ -2,7 +2,7 @@
   "name": "company-news",
   "apiDependencies": [
   	{
-  		"name":"article-news",
+  		"name":"info-news",
   		"LINK":[
   			{"name":"detail","title":"查看详情"}
   		]

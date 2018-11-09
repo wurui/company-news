@@ -14,10 +14,10 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-        <article-news>
+        <info-news>
             <i>
                 <title>本公司周年庆活动，全场建站产品享5折优惠</title>
-                <type>新闻</type>
+                <sort>新闻</sort>
                 <time>
                     <y>2018</y>
                     <M>3</M>
@@ -27,7 +27,7 @@
             </i>
             <i>
                 <title>场景化建站解决方案　助力满足需求能力倍增</title>
-                <type>新闻</type>
+                <sort>新闻</sort>
                 <time>
                     <y>2018</y>
                     <M>3</M>
@@ -37,7 +37,7 @@
             </i>
             <i>
                 <title>近日已成功完成平台灰度升级方案演示，Beta版本上线指日可待</title>
-                <type>新闻</type>
+                <sort>新闻</sort>
                 <time>
                     <y>2018</y>
                     <M>3</M>
@@ -45,6 +45,6 @@
                 </time>
                 <content></content>
             </i>
-        </article-news>
+        </info-news>
     </data>
 </root>
