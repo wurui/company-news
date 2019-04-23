@@ -4,7 +4,11 @@
   	{
   		"name":"info-news",
   		"LINK":[
-  			{"name":"detail","title":"查看详情"}
+  			{
+  				"name":"detail",
+  				"title":"查看详情",
+  				"target":"article-news-detail"
+  			}
   		]
   	}
   ]
